@@ -1,0 +1,40 @@
+{
+  "name": "giantswarm-fe-hiring-task",
+  "version": "1.0.0",
+  "description": "Giant Swarm Front-End Engineer Hiring Task",
+  "scripts": {
+    "start": "node_modules/.bin/ts-node src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giantswarm/fe-hiring-task.git"
+  },
+  "keywords": [
+    "giantswarm",
+    "front-end",
+    "hiring",
+    "task"
+  ],
+  "author": "giantswarm",
+  "license": "MIT",
+  "devDependencies": {
+    "@nestjs/cli": "^7.0.0",
+    "@nestjs/schematics": "^7.0.0",
+    "@nestjs/testing": "^7.0.1",
+    "@types/express": "^4.17.3",
+    "@types/node": "^13.9.1",
+    "supertest": "^4.0.2",
+    "ts-loader": "^6.2.1",
+    "ts-node": "^8.6.2",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@nestjs/common": "^7.0.1",
+    "@nestjs/core": "^7.0.1",
+    "@nestjs/platform-express": "^7.0.1",
+    "reflect-metadata": "^0.1.13",
+    "rimraf": "^3.0.2",
+    "rxjs": "^6.5.4"
+  }
+}
