@@ -6,14 +6,11 @@ export class App {
   }
 
   public id: string = "";
-
   public name: string = "";
-
   public description: string = "";
-
-  // TODO: Add readme
-  // public readme: string;
-
-  // TODO: Add relationship to author type
-  public author: string = "";
+  public version: string = "";
+  public iconURL?: string;
+  public url?: string;
+  public readmeURL?: string;
+  public author?: string;
 }
