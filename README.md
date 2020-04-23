@@ -41,7 +41,7 @@ Once your server is running, you can access the following endpoints:
 | `/apps`        | [App[]](#app)   | Provides a list of all the apps in the catalog    |
 | `/apps/:id`    | [App](#app)     | Provides the app which has the given id           |
 
-Also, all endpoints can return the [HttpException](#httpexception) type.
+Also, all endpoints will return the [HttpException](#httpexception) response type for non-2xx status codes.
 
 ## Data types
 
