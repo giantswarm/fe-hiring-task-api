@@ -1,5 +1,5 @@
 {
-  "name": "giantswarm-fe-hiring-task",
+  "name": "giantswarm-fe-hiring-task-api",
   "version": "1.0.0",
   "description": "Giant Swarm Front-End Engineer Hiring Task",
   "scripts": {
@@ -7,13 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/giantswarm/fe-hiring-task.git"
+    "url": "https://github.com/giantswarm/fe-hiring-task-api.git"
   },
   "keywords": [
     "giantswarm",
     "front-end",
     "hiring",
-    "task"
+    "task",
+    "api"
   ],
   "author": "giantswarm",
   "license": "MIT",

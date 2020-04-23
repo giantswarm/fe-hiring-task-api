@@ -1,4 +1,4 @@
-# **Giant Swarm Front-End Engineer Hiring Task**
+# **Giant Swarm Front-End Engineer Hiring Task API**
 
 This repository includes the Web API that you'll use in your hiring task.
 
@@ -11,12 +11,12 @@ This repository includes the Web API that you'll use in your hiring task.
 
 2. Clone this repo
     ```bash
-    $ git clone https://github.com/giantswarm/fe-hiring-task.git
+    $ git clone https://github.com/giantswarm/fe-hiring-task-api.git
     ```
 
 3. Navigate to your freshly cloned repo
     ```bash
-    $ cd fe-hiring-task
+    $ cd fe-hiring-task-api
     ```
 
 4. Install all dependencies
